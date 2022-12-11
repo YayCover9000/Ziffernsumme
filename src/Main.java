@@ -37,7 +37,7 @@ public class Main {
             } else {
                 check = false;
             }
-            System.out.println(" Quersumme entspricht = " + tausend+hundert+zehn+eins);
+            System.out.println(" Quersumme entspricht = " + tausend+hundert+zehn+eins);//
 
         }
     }
